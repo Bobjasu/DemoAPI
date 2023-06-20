@@ -29,7 +29,7 @@ public class AmgnstrongNumber
 		{
 			System.out.println("not an amgstrong");
 		}
-		
+		//1st pull
 		
 	}
 
